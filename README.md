@@ -6,6 +6,7 @@ The second (full) version of the to-do list project, using a MongoDB database.
 - HTML5
 - CSS
 - NodeJS
+- MongoDB
 
 # Language
 - English
